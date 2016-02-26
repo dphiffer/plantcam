@@ -107,3 +107,11 @@ quality="70"
 min_time="80000"    # start at 8am
 max_time="230000"   # end at 11pm
 ```
+
+## Reboot
+
+Restart your Raspberry Pi, and you should see the red light on the camera module turn on once per minute.
+
+```
+sudo reboot
+```
